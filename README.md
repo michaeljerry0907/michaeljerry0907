@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Honey Moharry</h1>
 <h3 align="center">A talented and passionate artificial intelligence developer.</h3>
 
 - 💬 Ask me about **AI, ML, DL, CNN, GANs, computer vision and chatGPT**
