@@ -1,7 +1,12 @@
 <h1 align="center">Hi, there! 👋</h1>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+an+aspiring+AI+Developer;who+is+on+a+journey+to+revolutionize+the +world+and;influence+billions+of+lives+with+the+power+of+AI+technology.;7+years+of+Experiences+in+AI,+Website+Development" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+an+aspiring+AI+Developer;7+years+of+Experiences+in+AI,+Website+Development" alt="Typing SVG" /></a>
 </div>
+<h3 align="center">A talented and passionate artificial intelligence developer.</h3>
+- 💬 Ask me about **AI, ML, DL, CNN, GANs, computer vision and chatGPT**
+- 📫 How to reach me **hmh19980907@gmail.com**
+<p align="left">
+</p>
 
 ## Languages & Tools
 <p align="left">
@@ -21,7 +26,6 @@
         <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">    
         <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <div/>
     <a href="https://skillicons.dev">
