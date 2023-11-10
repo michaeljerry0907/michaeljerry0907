@@ -2,6 +2,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+an+aspiring+AI+Developer;7+years+of+Experiences+in+AI,+Website+Development" alt="Typing SVG" /></a>
 </div>
+
 ## Let us revolutionize the world and influence billions of lives with the power of AI technology.
 
 ### 🙋‍♂️ How to reach me 
