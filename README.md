@@ -2,11 +2,12 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+an+aspiring+AI+Developer;7+years+of+Experiences+in+AI,+Website+Development" alt="Typing SVG" /></a>
 </div>
-<h3 align="center">Aspiring engineer who is on a journey to revolutionize the world and influence billions of lives with the power of AI technology.</h3>
+<h3 align="center">Let us revolutionize the world and influence billions of lives with the power of AI technology.</h3>
 
 - 💬 Ask me about **AI, ML, DL, CNN, GANs, computer vision and chatGPT**
 
 - 📫 How to reach me **hmh19980907@gmail.com**
+
 
 ## Languages & Tools
 <p align="left">
@@ -29,25 +30,10 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <div/>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,django,nodejs,express,go,ruby,mongodb,mongodb,redis,sqlite,supabase,react,nextjs,angular,vue,nuxtjs,tailwind&theme=light" />
-<!--         <img src="https://skillicons.dev/icons?i=aws,py,django,php,c,cs,cpp,java,angular,vue,laravel,bootstrap,tailwind,jquery,mysql,sqlite,powershell,qt,vscode,androidstudio,eclipse,figma&theme=light" /> -->
+        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,django,flask,streamlit,nodejs,express,mongodb,redis,sqlite,react,nextjs,angular,vue,nuxtjs,tailwind&theme=light" />
     </a>
 </p>
 <br><br>
-
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const flyphoenix = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Go, C#],
-  tools: [React, Vue, Next.js, Nuxt.js, Node, php, Go],
-  database: [Mongodb, MySQL, Redis, Supabase, Microsoft SQL Server],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-}
-```
 
 <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
