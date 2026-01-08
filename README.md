@@ -6,13 +6,13 @@
 ## Let us revolutionize the world and influence billions of lives with the power of AI technology.
 
 ### 🙋‍♂️ How to reach me 
-- hmh19980907@gmail.com
-- https://honey-resume.vercel.app/
+- michaeljerry0907@gmail.com
+- https://michael-97.lovable.app/
 
 ## Languages & Tools
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,django,flask,nodejs,javascript,typescript,express,mongodb,redis,sqlite,firebase,react,nextjs,angular,vue,laravel,docker" />
+        <img src="https://skillicons.dev/icons?i=ai,py,r,pytorch,tensorflow,sklearn,django,flask,fastapi,nodejs,javascript,typescript,express,mongodb,redis,sqlite,postgres,firebase,supabase,react,nextjs,angular,vue,php,laravel,ruby,rails,aws,docker" />
     </a>
 </p>
 <br>
