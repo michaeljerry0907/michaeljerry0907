@@ -5,10 +5,6 @@
 
 ## Let us revolutionize the world and influence billions of lives with the power of AI technology. On the journey with AI
 
-### 🙋‍♂️ How to reach me 
-- alex.hong226@gmail.com
-- michaeljerry0907@gmail.com
-
 ## Languages & Tools
 <p align="left">
     <a href="https://skillicons.dev">
